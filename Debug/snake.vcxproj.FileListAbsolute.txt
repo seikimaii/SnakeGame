@@ -1,0 +1,11 @@
+C:\Users\Seikimaii\source\repos\snake\Debug\snake.vcxproj.CopyComplete
+C:\Users\Seikimaii\source\repos\snake\Debug\snake.exe
+C:\Users\Seikimaii\source\repos\snake\Debug\sfml-graphics-d-2.dll
+C:\Users\Seikimaii\source\repos\snake\Debug\sfml-window-d-2.dll
+C:\Users\Seikimaii\source\repos\snake\Debug\sfml-system-d-2.dll
+C:\Users\Seikimaii\source\repos\snake\Debug\freetyped.dll
+C:\Users\Seikimaii\source\repos\snake\Debug\zlibd1.dll
+C:\Users\Seikimaii\source\repos\snake\Debug\bz2d.dll
+C:\Users\Seikimaii\source\repos\snake\Debug\libpng16d.dll
+C:\Users\Seikimaii\source\repos\snake\Debug\brotlidec.dll
+C:\Users\Seikimaii\source\repos\snake\Debug\brotlicommon.dll
